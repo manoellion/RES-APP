@@ -2,7 +2,7 @@
 
 App de consulta visual de falhas de aerogeradores.
 
-**Site:** https://manoellion.github.io/RES-APP/
+**Site:**  https://manoellion.github.io/RES-APP/
 
 ## Arquivos
 
